@@ -2,7 +2,7 @@
 
 Grammable is a Ruby on Rails *Instagram* clone web application. Users can sign up, upload a photo with comments, and comment on other image posts.
 
-Check it out [Grammable](https://grammable-yoshi.herokuapp.com/)
+Check out [Grammable](https://grammable-yoshi.herokuapp.com/)
 
 ____
 ### Implementation Details:
