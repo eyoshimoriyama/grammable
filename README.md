@@ -8,7 +8,7 @@ ____
 ### Implementation Details:
 * Built on Ruby on Rails framework
 * PostgreSQL database
-* Twitter Bootstrap 3 for CSS and UI components
+* Bootstrap for CSS and UI components
 * Simple Form gem for form implementation
 * Devise gem for user authentication (customized to allow :username at sign up & save to DB)
 * CarrierWave gem for image and video uploading & Amazon Web Services (S3) for photo/video storage
